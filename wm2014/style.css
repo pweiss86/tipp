@@ -1,0 +1,244 @@
+td{
+	white-space: nowrap;
+}
+
+th{
+	text-align: center;
+	white-space: nowrap;
+}
+
+input[type='image']{
+	border:0px;
+	padding:0px;
+	margin:0px;
+}
+
+input[type='text']{
+	width:50px;
+	padding:2px;
+	margin:0px;
+}
+
+select{
+	padding:2px;
+	margin:0px;
+}
+
+.centertext{
+	text-align: center;
+}
+
+.toprangliste{
+	width: 500px;
+}
+
+.toptippliste{
+	border-width: 0px 0px 0px 0px;
+}
+
+.toptippliste td{
+	border-width: 0px 0px 0px 0px;
+	padding: 3px;
+}
+
+.rangliste td{
+	text-align: center;
+}
+
+.spielliste td{
+	border-width: 0px 1px 1px 0px;
+	padding: 5px;
+}
+
+
+.tippliste td{
+	text-align: center;
+	border-width: 0px 1px 1px 0px;
+	padding: 5px;
+}
+
+.beitragsliste {
+	width: 300px;
+}
+
+.beitragsliste td{
+	text-align: center;
+}
+
+
+.green{
+	background-color:green;
+	color:white;
+}
+
+.yellow{
+	background-color:yellow;
+}
+
+.lightyellow{
+	background-color:lightyellow;
+}
+
+.userdata{
+	background-color:lightblue;
+}
+
+.rechtsoben {
+	position: relative;
+	right: -150px;
+	top: 0px;
+	width: 200px;
+}
+
+.saveButton{
+
+    background-color: #24890D;
+    border: 0px none;
+    border-radius: 0px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 30px 11px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+
+}
+
+a:link{
+	text-decoration:none;
+}
+.saveButton:hover, .saveButton:focus{
+    background-color: #41A62A;
+    color: #FFF;
+}
+
+.saveBonusButton{
+    background-color: #24890D;
+    border: 0px none;
+    border-radius: 0px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 30px 11px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+
+.saveBonusButton:hover, .saveBonusButton:focus{
+    background-color: #41A62A;
+    color: #FFF;
+}
+
+.saveAllButton{
+    background-color: #24890D;
+    border: 0px none;
+    border-radius: 0px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 30px 11px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+
+.saveAllButton:hover, .saveAllButton:focus{
+    background-color: #41A62A;
+    color: #FFF;
+}
+
+.saveEndrundeButtonH, .saveEndrundeButtonG{
+    background-color: #24890D;
+    border: 0px none;
+    border-radius: 0px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 30px 11px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+
+.saveEndrundeButtonH:hover, .saveEndrundeButtonH:focus, .saveEndrundeButtonG:hover, .saveEndrundeButtonG:focus{
+    background-color: #41A62A;
+    color: #FFF;
+}
+
+.saveBeitragButton{
+    background-color: #24890D;
+    border: 0px none;
+    border-radius: 0px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 30px 11px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+
+.saveBeitragButton:hover, .saveBeitragButton:focus{
+    background-color: #41A62A;
+    color: #FFF;
+}
+
+.delButton{
+    background-color: #000000;
+    border: 0px none;
+    border-radius: 0px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 10px 30px 11px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+}
+
+.delButton:hover, .saveButton:focus{
+    background-color: #404040;
+    color: #FFF;
+}
+
+.arrow-up{
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 0 10px 17.3px 10px;
+	border-color: transparent transparent #00ff00 transparent;
+}
+
+.arrow-down{
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 17.3px 10px 0 10px;
+	border-color: #ff0000 transparent transparent transparent;
+}
+
+.noarrow{
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: 2px;
+	width: 8px;
+	height: 0px;
+	border-color: #d1eb41;
+}
+
+.arrow-up-inner{
+	font-style: italic;
+	font-size: 0.8em;
+	width: 40px;
+	margin: -8px;
+}
+
+.arrow-down-inner{
+	font-style: italic;
+	font-size: 0.8em;
+	width: 40px;
+	margin: -10px;
+}
+
+.noarrow-inner{
+	font-style: italic;
+	font-size: 0.8em;
+	width: 34px;
+}
